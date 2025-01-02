@@ -7,7 +7,7 @@ const Projects = () => {
       <ul>
         <li>
           <h3>Todolist</h3>
-          <a href="https://github.com/kseniya374/cv">link to code</a>
+          <a href="https://kseniya374.github.io/project1/">link to code</a>
         </li>
       </ul>
     </section>
